@@ -36,5 +36,7 @@ h1{
 /*etiqueta nombre*/
 #nombre{
     font-weight: bold;
-    margin-top: 30%;
+    margin-bottom:  50%;
+    display: inline;
+    
 }
