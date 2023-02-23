@@ -1,0 +1,27 @@
+.row{
+    padding: 20px;
+    background-color: #161c3a;
+
+}
+.contenedor{
+    width: auto;
+}
+.parte1, .parte2{
+    display: inline-block;
+    text-align: justify;
+}
+.img-proyecto{
+    box-shadow: 10px 10px 20px rgb(0, 0, 0);
+}
+h1{
+    color: #9fabeb;
+}
+p{
+    color: aliceblue;
+}
+h2{
+    color: #40486d;
+}
+ul{
+    color: #40486d
+}
